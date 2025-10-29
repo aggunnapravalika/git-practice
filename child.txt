@@ -1,1 +1,2 @@
 child branch content(commit C)
+COMMIT D
