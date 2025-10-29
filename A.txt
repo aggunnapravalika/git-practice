@@ -1,2 +1,3 @@
 A file content
 added content for the commit B
+commit E
